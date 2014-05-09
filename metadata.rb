@@ -5,4 +5,4 @@ license 'Apache 2.0'
 description 'Install and configure polipo'
 long_description 'Install and configure polipo'
 
-version '0.1.0'
+version '0.2.0'
